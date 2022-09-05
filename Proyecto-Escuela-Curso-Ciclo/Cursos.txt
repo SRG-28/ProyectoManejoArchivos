@@ -1,0 +1,60 @@
+EIF-200
+Fundamentos
+2020
+1
+2
+2
+2020
+7
+7
+2020
+EIF-201
+Programacion 1
+2020
+2
+12
+7
+2020
+13
+11
+2020
+EIF-202
+Programacion 2
+2020
+1
+2
+2
+2020
+7
+7
+2020
+EIF-204
+Estructuras Datos
+2020
+2
+12
+7
+2020
+13
+11
+2020
+EIF-207
+Programacion Web
+2020
+3
+15
+11
+2020
+11
+2
+2021
+MAT-405
+Matematica 1
+0
+0
+0
+0
+0
+0
+0
+0
